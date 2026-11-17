@@ -1,0 +1,1 @@
+﻿Updater V3 bootstrap: same online button, automatic verified GitHub helper, independent normal/recovery selections. Fixes legacy AH Notes selection collision without changing worksheet cells. Includes four required components.
